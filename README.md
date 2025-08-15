@@ -15,5 +15,7 @@ I am a beginner Android developer on Kotlin. I am learning how to create mobile 
 ### 🏅 Language statistics 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defrostiks&layout=compact&theme=radical)](https://github.com/defrostiks)  
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=defrostiks&layout=compact
+
 ### ☎️ How to contact?
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/defrostiks)  
