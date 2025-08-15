@@ -17,5 +17,5 @@ I am a novice Android developer on Kotlin. I am learning how to create mobile ap
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/defrostiks)  
 
 ### 🖼️ Картинка (опционально)  
-![Android Developer](https://media1.tenor.com/m/uns-__iQ57cAAAAd/zxc.gif)  
+![Android Developer](https://media.tenor.com/QBYMwogv3PoAAAAi/zxcursed.gif)  
 *(Можно заменить ссылку на свою картинку или гифку)*  
