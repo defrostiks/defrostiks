@@ -1,5 +1,7 @@
 # Good Morning, Vietnam, I'm DEFROSTIKS 😈
 
+![Android Developer](https://media.tenor.com/QBYMwogv3PoAAAAi/zxcursed.gif)  
+
 ### 💀 About me 
 I am a novice Android developer on Kotlin. I am learning how to create mobile applications and studying modern technologies.
 
@@ -15,7 +17,3 @@ I am a novice Android developer on Kotlin. I am learning how to create mobile ap
 
 ### ☎️ How to contact?
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/defrostiks)  
-
-### 🖼️ Картинка (опционально)  
-![Android Developer](https://media.tenor.com/QBYMwogv3PoAAAAi/zxcursed.gif)  
-*(Можно заменить ссылку на свою картинку или гифку)*  
