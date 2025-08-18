@@ -13,7 +13,7 @@ I am a beginner Android developer on Kotlin. I am learning how to create mobile 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🏅 Language statistics 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defrostiks&layout=compact&theme=radical&cache_breaker=5)](https://github.com/defrostiks)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defrostiks&layout=compact&theme=radical&cache_breaker=6)](https://github.com/defrostiks)
 
 ### ☎️ How to contact?
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/defrostiks)  
